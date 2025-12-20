@@ -49,6 +49,47 @@ https://namecheckup.com/  //username check on multiple platforms
 Social media check: insta, fb, twitter, tiktok etc  
 
 **People OSINT**: search paeople info  
+https://whitepages.com  //search person by name  
+https://truepeoplesearch.com  
+Truecaller  
+fastbackgroundcheck.com  
+https://webmii.com/  
+thatsthem.com  //reverse phone, people search  
+Voter records: voterrecords.com, epic India  
+Hunting phone numbers: Truecaller, calleridtest.com, infobel.com, google  
+Discvering birthdates: Google: "happy birthday" site:instagram.com "sodium"  
+Searching for resumes: Google: sodium resume, "sodium"resume filetype:pdf site:linkedin  
+
+**Social Media OSINT**:  
+https://twitter.com/search-advanced  //twitter api not free anymore  
+https://github.com/rmdir-rp/OSINT-twitter-tools  
+Instagram: imaginn.com/p/profile_id  -- anonymous image viewer  
+snapchat, reddit, linkedin, tiktok  
+
+**Website OSINT**: can ignore - covered in detail - enumerations module    
+wappalyzer, whatweb, builtwith  
+https://centralops.net/co/domaindossier  
+virustotal, dnslytics  
+spyonweb.com  
+https://www.backlinkwatch.com/  //list what other websites point to target href  
+viewdns.info  //ip history, dns, mx, headers, port scanner, email test  
+dnsdumpster.com  
+web-check.as93.net  //scans given url - xray view  
+Urlscan.io  //like virustotal  
+crt.sh  //discover subdomains  
+wabybackmachines - archive  
+shodhan.io //work well with ip  
+
+**Business OSINT**: google, liknedin, opencorporate.com, nse/bse, indeed, workforcenow, aihitdata.com
+
+**Wireless OSINT**: wingle.net -- free ssid search by location  
+
+**Comment**:  
+username, email, dorks made sense - others not much  
+
+
+
+
 
 
 
