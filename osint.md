@@ -84,13 +84,20 @@ shodhan.io //work well with ip
 
 **Wireless OSINT**: wingle.net -- free ssid search by location  
 
-**Comment**:  
-username, email, dorks made sense - others not much  
+**OSINT automation**:  
+exiftool soda.jpg  
+username and acccounts: sherlock sodium410  //searches given username across multi social media  
+email and breached data: https://phonebook.cz, github search  
+phone numbers: phoneinfoga csan -n 123421424, phoneinfoga server -p 8080 -- web gui access  
+OSINT frameworks: all in one   
+recon-ng  -- https://hackertarget.com/recon-ng-tutorial/  
+maltego  -- create account free CE edition  
+For Website:  
+Whois tesla.com 
+Subfinder –d tesla.com  
+Assetfinder tesla.com  //for sub-domains and related assets  
+Amass enum –d tesla.com    //slow but good for sub-domains   
+Cat tesla.txt | httprobe –S –p https:443  
+Gowitness file –f ./tesla.txt -P pics/ --no-http  
 
-
-
-
-
-
-
-
+**Comments**: username, email, website made sense, others not much  
