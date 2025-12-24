@@ -32,8 +32,11 @@ Credential stuffing: any leaked creds, user:pass use hydra, or spray 1-2 pass on
 **Active Directory Initial Attack Vectors**:  
 Once on domain network, try capture netntlm hashes to crack or relay them.  
 1. [LLMNR Poioning](https://github.com/sodium410/AD/blob/main/llmnr.md)
-2. 
+2. [IPv6 attacks](https://github.com/sodium410/AD/blob/main/ipv6.md)
 
+**Active Directory Post Compromise enumeration**: with working domain creds  
+[Credentialed enum Linux](https://github.com/sodium410/AD/blob/main/credentialed-enum-lin.md)  
+[Credentialed enum Window](https://github.com/sodium410/AD/blob/main/credentialed-enum-win.md)  
 
 
 
