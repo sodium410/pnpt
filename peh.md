@@ -29,4 +29,14 @@ Credential stuffing: any leaked creds, user:pass use hydra, or spray 1-2 pass on
 
 **Capstone machines**: blue, academy, Dev, butler, blackpearl  
 
+**Active Directory Initial Attack Vectors**:  
+Once on domain network, try capture netntlm hashes to crack or relay them.  
+1. (LLMNR Poioning)[https://github.com/sodium410/AD/blob/main/llmnr.md]
+2. 
+
+
+
+
+
+
 
