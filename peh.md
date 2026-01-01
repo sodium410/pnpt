@@ -29,14 +29,36 @@ Credential stuffing: any leaked creds, user:pass use hydra, or spray 1-2 pass on
 
 **Capstone machines**: blue, academy, Dev, butler, blackpearl  
 
-**Active Directory Initial Attack Vectors**:  
+**Attacking Active Directory Initial Attack Vectors**:  
 Once on domain network, try capture netntlm hashes to crack or relay them.  
 1. [LLMNR Poioning](https://github.com/sodium410/AD/blob/main/llmnr.md)
 2. [IPv6 attacks](https://github.com/sodium410/AD/blob/main/ipv6.md)
 
-**Active Directory Post Compromise enumeration**: with working domain creds  
+**Attacking Active Directory Post Compromise enumeration**: with working domain creds  
+ldapdomaindupm, bloodhound, plumhound, pingcastle  
 [Credentialed enum Linux](https://github.com/sodium410/AD/blob/main/credentialed-enum-lin.md)  
-[Credentialed enum Window](https://github.com/sodium410/AD/blob/main/credentialed-enum-win.md)  
+
+**Attacking Active Directory Post Compromise Attacks**:  
+Pass the hash or pass the pass: can pass ntlm hashes where as relay netntlmv1 and netntlmv2 hashes !!  
+(cme impacket mimikatz)[https://github.com/sodium410/AD/edit/main/cme-impacket-mimi.md]  
+(kerberoasting)[https://github.com/sodium410/AD/blob/main/kerberoasting.md]  
+(Token Impersonation)[https://github.com/sodium410/AD/blob/main/token_impersonation.md]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
