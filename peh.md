@@ -43,25 +43,16 @@ Pass the hash or pass the pass: can pass ntlm hashes where as relay netntlmv1 an
 (cme impacket mimikatz)[https://github.com/sodium410/AD/edit/main/cme-impacket-mimi.md]  
 (kerberoasting)[https://github.com/sodium410/AD/blob/main/kerberoasting.md]  
 (Token Impersonation)[https://github.com/sodium410/AD/blob/main/token_impersonation.md]  
+(LNK file forced authentication attack and GPP cPassword attacks)[https://github.com/sodium410/AD/blob/main/lnk_GPPcPassword.md]  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+**Post Compromise strategy**:  
+We have a valid domain account – now what ?  
+Search for quickwins: 
+Kerberosting  
+Secretsdump  
+Pass the hash or pass the password  
+No quick wins – dig deep  
+Enumerate further – bloodhound etc  
+Where does your account have access  
+Old vulnerabilities die hard  
+Think outside the box  
