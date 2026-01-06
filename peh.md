@@ -56,3 +56,27 @@ Enumerate further – bloodhound etc
 Where does your account have access  
 Old vulnerabilities die hard  
 Think outside the box  
+
+**Additional AD Attacks**:  reserved for worst case scenarios, should not attempt unless client approves.  
+could completely destroy the domain.. check instead not exploit  
+(ZeroLogon)[https://github.com/sodium410/AD/blob/main/zerologon.md]  
+(PrintNightmare)[https://github.com/sodium410/AD/blob/main/printnightmare.md]  
+
+**AD Case Studies**:  
+https://tcm-sec.com/pentest-tales-001-you-spent-how-much-on-security/  -- LLMNR poisoning  
+https://tcm-sec.com/pentest-tales-002-digging-deep  -- default creds on web app revaled admin creds  
+AD Case Study 3: one of the accounts - access to common file share -- mac pro setup procedure - revealed admin creds  
+
+**Post Exploitation**:  
+(FileTransfers)[https://github.com/sodium410/cpts/blob/main/7file_transfers.md]  
+**Maintaining Access**:  for red teaming not pnpt  
+persistence scripts, scheduled tasks, add a user  -- net user hacker password123 /add  
+(Pivoting)[https://github.com/sodium410/cpts/blob/main/12Pivot_Tunnel_Port_forw.md]  
+Cleanup  - remove all files and accounts  
+
+**Web app enumeration Revisited**: https://github.com/sodium410/web/blob/main/enum.md   
+Automation:  
+sumrecon: https://github.com/thatonetester/sumrecon  
+TCM's modified script - https://pastebin.com/MhE6zXVt  
+
+**Find and exploit Common web vulnerabilities**:   
