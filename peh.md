@@ -40,10 +40,10 @@ ldapdomaindupm, bloodhound, plumhound, pingcastle
 
 **Attacking Active Directory Post Compromise Attacks**:  
 Pass the hash or pass the pass: can pass ntlm hashes where as relay netntlmv1 and netntlmv2 hashes !!  
-(cme impacket mimikatz)[https://github.com/sodium410/AD/edit/main/cme-impacket-mimi.md]  
-(kerberoasting)[https://github.com/sodium410/AD/blob/main/kerberoasting.md]  
-(Token Impersonation)[https://github.com/sodium410/AD/blob/main/token_impersonation.md]  
-(LNK file forced authentication attack and GPP cPassword attacks)[https://github.com/sodium410/AD/blob/main/lnk_GPPcPassword.md]  
+[cme impacket mimikatz](https://github.com/sodium410/AD/edit/main/cme-impacket-mimi.md)  
+[kerberoasting](https://github.com/sodium410/AD/blob/main/kerberoasting.md)  
+[Token Impersonation](https://github.com/sodium410/AD/blob/main/token_impersonation.md)  
+[LNK file forced authentication attack and GPP cPassword attacks](https://github.com/sodium410/AD/blob/main/lnk_GPPcPassword.md)  
 
 **Post Compromise strategy**:  
 We have a valid domain account – now what ?  
@@ -59,8 +59,8 @@ Think outside the box
 
 **Additional AD Attacks**:  reserved for worst case scenarios, should not attempt unless client approves.  
 could completely destroy the domain.. check instead not exploit  
-(ZeroLogon)[https://github.com/sodium410/AD/blob/main/zerologon.md]  
-(PrintNightmare)[https://github.com/sodium410/AD/blob/main/printnightmare.md]  
+[ZeroLogon](https://github.com/sodium410/AD/blob/main/zerologon.md)  
+[PrintNightmare](https://github.com/sodium410/AD/blob/main/printnightmare.md)  
 
 **AD Case Studies**:  
 https://tcm-sec.com/pentest-tales-001-you-spent-how-much-on-security/  -- LLMNR poisoning  
@@ -68,10 +68,10 @@ https://tcm-sec.com/pentest-tales-002-digging-deep  -- default creds on web app 
 AD Case Study 3: one of the accounts - access to common file share -- mac pro setup procedure - revealed admin creds  
 
 **Post Exploitation**:  
-(FileTransfers)[https://github.com/sodium410/cpts/blob/main/7file_transfers.md]  
+[FileTransfers](https://github.com/sodium410/cpts/blob/main/7file_transfers.md)  
 **Maintaining Access**:  for red teaming not pnpt  
 persistence scripts, scheduled tasks, add a user  -- net user hacker password123 /add  
-(Pivoting)[https://github.com/sodium410/cpts/blob/main/12Pivot_Tunnel_Port_forw.md]  
+[Pivoting](https://github.com/sodium410/cpts/blob/main/12Pivot_Tunnel_Port_forw.md)  
 Cleanup  - remove all files and accounts  
 
 **Web app enumeration Revisited**: https://github.com/sodium410/web/blob/main/enum.md   
