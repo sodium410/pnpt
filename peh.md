@@ -79,4 +79,4 @@ Automation:
 sumrecon: https://github.com/thatonetester/sumrecon  
 TCM's modified script - https://pastebin.com/MhE6zXVt  
 
-**Find and exploit Common web vulnerabilities**:   
+**Find and exploit Common web vulnerabilities**: basics, refer burp academy..    
