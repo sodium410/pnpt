@@ -20,6 +20,7 @@ https://certifications.tcm-sec.com/wp-content/uploads/2022/01/TCMS-PNPT-Training
 https://www.youtube.com/watch?v=ILgZKh59Xrc  //from PNPT author on how to pass PNPT  
 https://tcm-sec.com/how-to-pass-the-pnpt-exam-first-time/  
 https://medium.com/@pr0tag0nist/passing-pnpt-2025-tips-review-87bc6dbe6c3a  
+https://dev.to/mr-3/how-to-pass-the-pnpt-2026-3n6f  -- sauna HTB and Wreath THM writeups must  2026 pass review 
 
 **Extras**:  
 Join PNPT discord  
